@@ -45,3 +45,10 @@ Cоздает новый репозиторий Git. С ее помощью мо
 _**git add <file_name>**_
 
 ![](/img/command_add.png)
+
+### Git commit
+
+Cделать для проекта снимок текущего состояния изменений:
+_**git commit -m "commit message"**_.
+Флаг **-m** позволяет указать комментарий
+![](/img/command_commit.PNG)
