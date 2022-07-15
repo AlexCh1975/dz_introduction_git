@@ -37,4 +37,4 @@ Cоздает новый репозиторий Git. С ее помощью мо
 
 Создание Git-репозитория: **git init**
 
-![](/img/command_init.png)
+![](/command_init.PNG)
